@@ -1,0 +1,169 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-bar{
+    font-size: 15px;
+    
+}
+.menu{
+    height:100px
+}
+
+
+
+.nav-bar li{
+    list-style-type: none;
+    float: right;
+    padding: 20px;
+    font-weight: bold;
+    color: gray;
+}
+h1{
+    font-size:50px;
+    line-height:20px;
+    color: rgb(63, 86, 116);
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+section{   
+    height: 600px;   
+}
+
+.highlight{
+    color: coral
+}
+p{
+    color: gray;
+}
+
+.half-width{
+    width:40%;
+    float:left;
+    padding: 10px;
+    margin: 30px;
+    
+}
+
+.half-width img{
+    width: 80%;
+}
+
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon,tomato);
+    padding: 10px 20px;
+    margin: 2px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+}
+
+.work{  
+    padding: 50px; 
+    background-color: rgb(247, 248, 248);
+     
+}
+
+.work h1{
+    text-align: center;
+}
+
+.work img{
+    width:80%;
+    padding: 30px;
+}
+
+
+
+
+.divide{
+    width: 30%;
+    float:left;
+    margin-left: 20px;
+    padding:10px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius:10px;
+   
+}
+
+.chat{
+    padding-top:80px;
+}
+
+
+.half h2,a{
+
+    margin:auto;
+    height: 30%;
+    display: inline;
+    padding: 150px;
+    vertical-align: middle;
+    color: white
+}
+
+.half{
+    width: 50%;
+    margin: 0 auto;
+    background-image: linear-gradient(blue,lightblue);
+    height: 200px;
+    padding: 2%;
+    border-radius:10px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+
+
+.half img{
+    width: 100%;
+}
+
+.footer{
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px;
+    
+}
+
+.footer h1{
+    width: 70%;
+    margin: 0 auto;
+    
+}
+
+.footer h3{
+    width: 24%;
+    margin: 0 auto;
+    
+}
+.end{
+    background-image: url("image/bg.png");
+    border-radius: 50px;
+}
+
+.footer-img{
+    margin: auto 0 auto;
+    width: 50%;
+    padding-left: 640px;
+}
+
+.footer-img img{
+    width:8%;
+}
+
+.last{
+    margin: 0 auto;
+    width: 100%;
+}
+ 
+footer{
+    color: black;
+    text-align: center;
+    font-size: larger;
+}
+
+
+
